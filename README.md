@@ -16,3 +16,4 @@ This program demonstrates how to forecast Microsoft stock prices using a Long Sh
 ### Usage
 + Ensure you have the necessary dataset containing Microsoft stock prices.
 + Run the program main.py using Python
+  
