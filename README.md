@@ -3,7 +3,7 @@
 This program demonstrates how to forecast Microsoft stock prices using a Long Short-Term Memory (LSTM) neural network model implemented in TensorFlow/Keras.
 
 ### Requirements
-+ Python 3.x
++ Python 3.
 + TensorFlow
 + NumPy
 + Matplotlib
